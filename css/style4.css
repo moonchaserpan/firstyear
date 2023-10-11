@@ -312,11 +312,11 @@
 .logo {
     width: 350px;
     height: 81px;
-    /* background-image: url('../images/logo.png'); */
+    background-image: url('../images/image.png');
     z-index: 999999;
     position: absolute;
-    left: 41vw;
-    top: 7vh;
+    left: 37vw;
+    top: 10vh;
     display: none;
     background-size: cover;
 }
